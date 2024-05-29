@@ -11,7 +11,7 @@ My name is Michael Lima, and I'm a electronic engineering student.
 <div>
   <a href="https://github.com/MichaelLimaDeveloper">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLimaDeveloper&layout=compact&langs_count=7&theme=synthwave"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mulekotd&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelLimaDeveloper&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 

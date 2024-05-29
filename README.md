@@ -6,7 +6,7 @@ My name is Michael Lima, and I'm a electronic engineering student.
 - 🔭 I’m currently working on ... (nothing, yet...)
 - 🌱 I’m currently studying electronic engineering at Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)
 - 🤝 I'm seeking for new programming partners.
-- ⚡ Fun fact: i learned driving cars with 10 years age, motorcycle with 16 years age (at the 1st day), but i don't have driver's license (yet...).
+- ⚡ Fun fact: i learned driving cars with 10 years age, motorcycle with 16 years age (at the 1st day), but i don't have driver's license(yet...).
 
 <div>
   <a href="https://github.com/MichaelLimaDeveloper">

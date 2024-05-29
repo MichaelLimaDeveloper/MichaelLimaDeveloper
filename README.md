@@ -9,7 +9,9 @@ My name is Michael Lima, and I'm a electronic engineering student.
 - ⚡ Fun fact: i learned driving cars with 10 years age, motorcycle with 16 years age (at the 1st day), but i don't have driver's license (until now).
 
 <div>
+  <a href="https://github.com/MichaelLimaDeveloper">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLimaDeveloper&layout=compact&langs_count=7&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mulekotd&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 

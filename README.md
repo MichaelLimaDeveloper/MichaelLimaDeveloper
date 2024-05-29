@@ -3,7 +3,7 @@
 My name is Michael Lima, and I'm a electronic engineering student.
 
 - 🎓 I graduated from technical high school in IT at Instituto Federal do Rio de Janeiro in 2023
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... (nothing, until now...)
 - 🌱 I’m currently studying electronic engineering at Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)
 - 🤝 I'm seeking for new programming partners.
 - ⚡ Fun fact: i learned driving cars with 10 years age, motorcycle with 16 years age (at the 1st day), but i don't have driver's license (until now).
